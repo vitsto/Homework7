@@ -15,9 +15,6 @@ public class Ex1 {
         System.out.println();
         //exercise 3
         int population = 12_000_000;
-        // рождаеость 17 человек на 1000, смертность 8 человек
-        // численность через 10 лет?
-        // год ... численность населения составляет ....
         for (int year = 2020; year < 2030; year++) {
             int bornPeople = 0;
             int diedPeople = 0;
